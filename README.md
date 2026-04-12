@@ -7,6 +7,8 @@ Cкачивание зависипостей на основе package-lock.json
 Для запуска игры напишите:
 
 # brain-games
+# brain-calc
+# brain-gcd
 
 
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Boobleck_frontend-project-44&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Boobleck_frontend-project-44)
